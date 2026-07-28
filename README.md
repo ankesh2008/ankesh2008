@@ -60,25 +60,21 @@ const devProfile = {
 
 <h3 align="center">⚙️ Languages & Core Systems</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,typescript,html,css&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,c,java,javascript,html,css&theme=dark" alt="Languages" />
 </p>
 
 <h3 align="center">🧠 AI/ML Modules</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark" alt="AI/ML" />
-  &nbsp;&nbsp;
+  
   <img src="https://img.shields.io/badge/Prompt_Engineering-00E5FF?style=for-the-badge&logo=openai&logoColor=000&labelColor=1a1a1a" alt="Prompt Engineering" />
   <img src="https://img.shields.io/badge/Predictive_Modeling-00E5FF?style=for-the-badge&logo=databricks&logoColor=000&labelColor=1a1a1a" alt="Predictive Modeling" />
 </p>
 
-<h3 align="center">🌐 Web & Backend</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,django,firebase&theme=dark" alt="Web Stack" />
-</p>
+
 
 <h3 align="center">🛠️ Tools & Platforms</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,docker,aws&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Tools" />
 </p>
 
 <h3 align="center">✍️ Core Competencies</h3>
